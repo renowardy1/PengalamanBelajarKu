@@ -20,7 +20,6 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
   * Belajar tipe data koleksi, seperti list, set, dan map.
 
 **20 Juni 2021**
-
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
   * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
